@@ -1,0 +1,6 @@
+{
+  "name": "Harkuch Tech",
+  "description": "Premium electronics e-commerce platform targeting Bangladeshi shoppers with an integrated admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
